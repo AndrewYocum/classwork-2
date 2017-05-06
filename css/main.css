@@ -1,0 +1,23 @@
+.main {
+    font-style: italic;
+}
+
+.box {
+  width: 400px;
+  height: 100px;
+  background-color: blue;
+}
+.change2 {
+  background-color: pink;
+}
+
+
+#h2 {
+    margin-bottom: 300px;
+}
+
+#cont {
+  width: 400px;
+  height: 100px;
+  background-color: blue;
+}
